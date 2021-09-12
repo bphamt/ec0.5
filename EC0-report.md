@@ -9,7 +9,7 @@
 
 ## Answer
 
-The example figure below shows the growth in the number of websites between 1993 and 1996.
+The example figure below shows dogs vs cats, in terms of how much they miss you relative to the time you are gone
 
 ![image](https://github.com/bphamt/ec0.5/blob/main/Dogs-vs-Cats-How-much-they-miss-you-relative-to-the-time-you-are-gone.png)
 
@@ -17,24 +17,21 @@ The example figure below shows the growth in the number of websites between 1993
 
 ```python
 #!/usr/local/bin/python3
-# testargs.py
 
-import sys
+a = "Hello, World!"
+print(a[1])
 
-print ("{} is the name of the script." . format(sys.argv[0]))
-print ("There are {} arguments: {}" . format(len(sys.argv), str(sys.argv)))
 
-for ind, arg in enumerate(sys.argv):
-    print ("[{}]: {} {}".format(ind,arg,sys.argv[ind]))
 ```
 
 The table below shows a simple table.  
 
 |Week|Date|Topic|
 |:---|:---|:---|
-|1|Sep 1, 3|Introduction, What's Vis and Why Do It?|
-|2|Sep 8, 10|Data and Data Cleaning|
-|3|Sep 15, 17|Marks and Channels|
+|1|Aug 28|Introduction to Web Science and Web Architecture|
+|2|Sep 4|Introduction to Python|
+|3|Sep 11|Introduction to Info Vis with R, Python|
+|4|Sep 18|Measuring the Web|
 
 The table below shows an example confusion matrix (you'll see this term later) from <https://en.wikipedia.org/wiki/Confusion_matrix>.
 
@@ -64,5 +61,6 @@ The table below shows an example confusion matrix (you'll see this term later) f
 
 *Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.*
 
-* Insert Reference 1, <https://www.example.com>
-* Insert Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
+* W3Schools, https://www.w3schools.com/
+* Blackboard, https://www.blackboard.odu.edu/
+* Google, http://google.com/
