@@ -1,7 +1,7 @@
-# HW# - Title
-### Your Name
+# HW# - EC 0.6 - Reports
+### Binh Pham
 ### CS 432, Fall 2021
-### Due Date
+### September 12th, 2021
 
 # Q1
 
@@ -11,7 +11,7 @@
 
 The example figure below shows the growth in the number of websites between 1993 and 1996.
 
-![\label{fig:web-growth}](growth-early-web.png)
+![image](https://github.com/bphamt/ec0.5/blob/main/Dogs-vs-Cats-How-much-they-miss-you-relative-to-the-time-you-are-gone.png)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
